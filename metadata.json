@@ -1,0 +1,5 @@
+{
+  "name": "Image to Excel ",
+  "description": "Convert images of documents, invoices, and tables into editable Excel spreadsheets using Google Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
